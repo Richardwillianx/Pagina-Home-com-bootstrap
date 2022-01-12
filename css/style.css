@@ -1,0 +1,9 @@
+.bg{
+    background: url("../assets/images/bg.png") no-repeat center bottom;
+    background-size: cover;
+    color: aqua;
+}
+
+#emailHelp{
+    color: white;
+}
